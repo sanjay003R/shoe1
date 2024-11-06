@@ -154,7 +154,9 @@ section{
     cursor: pointer;
     text-stroke: .1rem #10221b;
 }
-
+.header .icons div,.header .icons a{
+    color: black;
+}
 .header .icons div:hover,
 .header .icons a:hover{
     text-stroke: .1rem #45c287;
